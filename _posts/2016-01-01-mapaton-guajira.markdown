@@ -55,5 +55,5 @@ Para compartir con sus amigos, por favor socialice en redes sociales:
 </a>
 <span class="caption text-muted">Ven y contribuye de una forma divertida aprendiendo a crear mapas!</span>
 </p>
-<p>Comparte en redes sociales</p>
-#MapatónxLaGuajira
+<p>Comparte en redes sociales enviando el siguiente tuit:</p>
+<em>Aprende a crear mapas mientras ayudas a la comunidad Wayuu, ven y participa #MapatónxLaGuajira http://openstreetmapcolombia.github.io/2016/01/01/mapaton-guajira/ @openstreetmapco</em>
