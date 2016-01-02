@@ -14,7 +14,7 @@ description: "Mapatón por la Guajira"
         </h3>
         {% endif %}
     </a>
-    <p class="post-meta">Publicado por {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}</p>
+    <p class="post-meta">Publicado por {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} el {{ post.date | date: "%B %-d, %Y" }}</p>
 </div>
 <hr>
 {% endfor %}
