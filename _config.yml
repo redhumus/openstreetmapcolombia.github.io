@@ -8,7 +8,7 @@ baseurl: ""
 url: "http://OpenStreetMap.CO"
 twitter_username: OpenStreetMapCO
 github_username:  OpenStreetMapColombia
-facebook_username:  OpenStreetMapColombia
+facebook_username:  groups/98009745459
 
 # Build settings
 markdown: kramdown
