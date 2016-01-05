@@ -23,8 +23,10 @@ Se llevarán a cabo dos actividades principales de capacitación, levantamiento 
 <iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=-74.07730221748352%2C4.5988886537499605%2C-74.07131552696228%2C4.602107628927213&amp;layer=mapnik&amp;marker=4.600498143157623%2C-74.0743088722229" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/?mlat=4.60050&amp;mlon=-74.07431#map=18/4.60050/-74.07431">Ver mapa más grande</a></small>
 <span class="caption text-muted">Sala de Innovación del Ministerio de Tecnologías de Información y Comunicación en Bogotá (Edifición Murillo Toro Cra. 8a entre calles 12 y 13) entre las 8 AM - 12M del 20 de enero de 2016.</span>
 <br>
+<section id="inscripcion">
 <h5>Incripciones</h5>
 Registraste <a href="https://www.eventbrite.es/e/entradas-mapaton-por-la-guajira-20226286367">aquí</a>.
+</section>
 <br>
 <br>
 <h2>2. Mapeo en Campo</h2>
