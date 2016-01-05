@@ -24,8 +24,8 @@ Se llevarán a cabo dos actividades principales de capacitación, levantamiento 
 <span class="caption text-muted">Sala de Innovación del Ministerio de Tecnologías de Información y Comunicación en Bogotá (Edifición Murillo Toro Cra. 8a entre calles 12 y 13) entre las 8 AM - 12M del 20 de enero de 2016.</span>
 <br>
 <section id="inscripcion">
-<h5>Incripciones</h5>
-Registraste <a href="https://www.eventbrite.es/e/entradas-mapaton-por-la-guajira-20226286367">aquí</a>.
+<h5>Inscripciones</h5>
+Regístrate <a href="https://www.eventbrite.es/e/entradas-mapaton-por-la-guajira-20226286367">aquí</a>.
 </section>
 <br>
 <br>
