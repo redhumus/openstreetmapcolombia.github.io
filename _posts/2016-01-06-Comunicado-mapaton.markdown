@@ -6,6 +6,7 @@
  author:     "Luis Miguel Sánchez"
  header-img: "img/watercolor_guajira.png"
  ---
+ 
  <h2>Comunicado de prensa</h2>
  <h1>Mapatón por La Guajira</h1>
  <br>
@@ -13,9 +14,7 @@
  
  agua en el departamento de La Guajira para ayudar a superar la crisis por sequía en las comunidades Wayúu.</p>
  <br>
- <p align="justify">Bogotá, 6 de enero de 2015. El próximo 20 de enero se darán cita en Bogotá, 100 voluntarios digitales para
- 
- contribuir con la Mapatón por La Guajira, evento donde se enseñará a construir y mejorar el mapa de la 
+ <p align="justify">Bogotá, 6 de enero de 2015. El próximo 20 de enero se darán cita en Bogotá, 100 voluntarios digitales para contribuir con la Mapatón por La Guajira, evento donde se enseñará a construir y mejorar el mapa de la 
  
  península guajira, de manera colaborativa y con cuya información será más fácil tomar decisiones técnicas.
  
