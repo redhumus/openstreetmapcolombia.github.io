@@ -102,6 +102,103 @@ Acompañará a la Mapatón, una segunda actividad para el levantamiento de datos
  	<li><a href="">Formator PDF</a></li>
  	<li><a href="https://drive.google.com/open?id=0B6RplgVZJTpQYmhseU4wSXVFa1U">Formato de texto</a></li>
  </ul>
+ <br>
+ <p>
+ <table width="667" cellpadding="0" cellspacing="0">
+	<col width="453">
+	<col width="213">
+	<tr valign="top">
+		<td width="453" style="border-top: 1.00pt solid #000000; border-bottom: 1.00pt solid #000000; border-left: 1.00pt solid #000000; border-right: none; padding: 0cm">
+			<p class="western" align="center"><font size="2" style="font-size: 10pt"><b>Institución</b></font></p>
+		</td>
+		<td width="213" style="border: 1.00pt solid #000000; padding: 0cm">
+			<p class="western" align="center"><font size="2" style="font-size: 10pt"><b>Contacto</b></font></p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="453" style="border-top: 1.00pt solid #000000; border-bottom: 1.00pt solid #000000; border-left: 1.00pt solid #000000; border-right: none; padding: 0cm">
+			<p class="western" style="margin-bottom: 0cm"><font size="2" style="font-size: 10pt"><b>OpenStreetMap
+			Colombia:</b></font><font size="2" style="font-size: 10pt">
+			Coordina y genera mapas y datos geográficos abiertos en contextos
+			de crisis en el país.  En 2015 obtuvo reconocimientos por: 1) UN
+			OCHA / IEH en el Día Mundial Humanitario, por la activación de
+			mapeo para Salgar, Antioquia; 2) Primer premio nacional de
+			Movilización social digital (MinTic) Categoría prevención; 3)
+			Ganador Titán Caracol (Fredy Rivera) Categoría Tecnología y
+			Conectividad 2015.</font></p>
+			<p class="western"><br/>
+
+			</p>
+		</td>
+		<td width="213" style="border: 1.00pt solid #000000; padding: 0cm">
+			<p class="western" style="margin-bottom: 0cm"><font size="2" style="font-size: 10pt">Humberto
+			Yances</font></p>
+			<p class="western" style="margin-bottom: 0cm"><font color="#000080"><span lang="zxx"><u><a href="mailto:hyances@gmail.com"><font color="#1155cc"><font size="2" style="font-size: 10pt">hyances@gmail.com</font></font></a></u></span></font></p>
+			<p class="western" style="margin-bottom: 0cm"><font size="2" style="font-size: 10pt">311
+			673 4801</font></p>
+			<p class="western" style="margin-bottom: 0cm"><font color="#000080"><span lang="zxx"><u><a href="http://blog.openstreetmap.co/"><font color="#1155cc"><font size="2" style="font-size: 10pt">http://blog.openstreetmap.co</font></font></a></u></span></font><font size="2" style="font-size: 10pt">
+			</font>
+			</p>
+			<p class="western"><font size="2" style="font-size: 10pt">También
+			es miembro del Equipo Humanitario de OpenStreetMap (HOT)
+			</font><font color="#000080"><span lang="zxx"><u><a href="https://hotosm.org/"><font color="#1155cc"><font size="2" style="font-size: 10pt">https://hotosm.org/</font></font></a></u></span></font><font size="2" style="font-size: 10pt">
+			</font>
+			</p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="453" style="border-top: 1.00pt solid #000000; border-bottom: 1.00pt solid #000000; border-left: 1.00pt solid #000000; border-right: none; padding: 0cm">
+			<p class="western"><font size="2" style="font-size: 10pt"><b>Proyecto
+			Missing Maps:</b></font><font size="2" style="font-size: 10pt"><span lang="es-CO"><b>
+			</b></span></font><font size="2" style="font-size: 10pt">Tiene por
+			objetivo mapear los sitios más vulnerables en países en
+			desarrollo, de forma que ONG internacionales y locales e
+			individuos puedan usar los mapas y datos geográficos para una
+			mejor respuesta a la crisis que les afectan.</font></p>
+		</td>
+		<td width="213" style="border: 1.00pt solid #000000; padding: 0cm">
+			<p class="western" style="margin-bottom: 0cm"><font size="2" style="font-size: 10pt">Drishtie
+			Patel</font></p>
+			<p class="western" style="margin-bottom: 0cm"><font size="2" style="font-size: 10pt">Coordinadora
+			Missing Maps</font></p>
+			<p class="western"><font color="#000080"><span lang="zxx"><u><a href="mailto:drishtie.patel@redcross.org"><font color="#1155cc"><font size="2" style="font-size: 10pt">drishtie.patel@redcross.org</font></font></a></u></span></font><font size="2" style="font-size: 10pt">
+			</font>
+			</p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="453" style="border-top: 1.00pt solid #000000; border-bottom: 1.00pt solid #000000; border-left: 1.00pt solid #000000; border-right: none; padding: 0cm">
+			<p class="western"><font size="2" style="font-size: 10pt"><b>OCHA
+			Colombia:</b></font><font size="2" style="font-size: 10pt">
+			Oficina de las Naciones Unidas para la Coordinación de Asuntos 
+			Humanitarios en Colombia.  Apoya con la convocatoria al evento.</font></p>
+		</td>
+		<td width="213" style="border: 1.00pt solid #000000; padding: 0cm">
+			<p class="western" style="margin-bottom: 0cm"><font size="2" style="font-size: 10pt">Liliana
+			Carvajal</font></p>
+			<p class="western"><font color="#000080"><span lang="zxx"><u><a href="mailto:carvajal@un.org"><font color="#1155cc"><font size="2" style="font-size: 10pt">carvajal@un.org</font></font></a></u></span></font><font size="2" style="font-size: 10pt">
+			</font>
+			</p>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td width="453" style="border-top: 1.00pt solid #000000; border-bottom: 1.00pt solid #000000; border-left: 1.00pt solid #000000; border-right: none; padding: 0cm">
+			<p class="western"><font size="2" style="font-size: 10pt"><b>Colectivo
+			#BrigadaDigital: </b></font><font size="2" style="font-size: 10pt">Redes
+			sociales y voluntarios digitales para la ayuda humanitaria.</font></p>
+		</td>
+		<td width="213" style="border: 1.00pt solid #000000; padding: 0cm">
+			<p class="western" style="margin-bottom: 0cm"><font size="2" style="font-size: 10pt">Juan
+			Carlos Pachón</font></p>
+			<p class="western" style="margin-bottom: 0cm"><font color="#000080"><span lang="zxx"><u><a href="mailto:arttesano@gmail.com"><font color="#1155cc"><font size="2" style="font-size: 10pt">arttesano@gmail.com</font></font></a></u></span></font><font size="2" style="font-size: 10pt">
+			</font>
+			</p>
+			<p class="western"><font size="2" style="font-size: 10pt">3102694942</font></p>
+		</td>
+	</tr>
+</table>
+</p>
+<br>
  
  <p>Comparta en redes sociales enviando el siguiente tuit:</p>
  <em>Aprende a crear mapas mientras ayudas a la comunidad Wayuu, ven y participa #MapatónxLaGuajira http://openstreetmapcolombia.github.io/2016/01/01/mapaton-guajira/ @openstreetmapco</em>
