@@ -5,7 +5,7 @@
  date:       2016-01-06 12:00:00
  author:     "Luis Miguel Sánchez"
  header-img: "img/watercolor_guajira.png"
- ---
+---
  
  <h2>Comunicado de prensa</h2>
  <h1>Mapatón por La Guajira</h1>
