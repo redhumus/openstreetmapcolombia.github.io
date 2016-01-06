@@ -99,7 +99,7 @@ Recientemente la Corte Interamericana de Derechos Humanos, con base en una solic
 
 <ul>
 	<h5>Descargue los comunicados aquí</h5>
-	<li><a href="">Formator PDF</a></li>
+	<li><a href="">Formato PDF</a></li>
 	<li><a href="https://drive.google.com/open?id=0B6RplgVZJTpQYmhseU4wSXVFa1U">Formato de texto</a></li>
 </ul>
 
