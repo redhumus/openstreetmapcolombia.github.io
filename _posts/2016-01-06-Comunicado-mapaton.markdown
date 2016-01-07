@@ -1,7 +1,7 @@
 ---
  layout:     post
  title:      "Comunicado de prensa Mapatón por la Guajira"
- subtitle:   "Voluntarios se disponen a levantar datos geográficos sobre el agua para ayudar a superar la crisis por sequía en comunidades Wayúu"
+ subtitle:   ""
  date:       2016-01-06 12:00:00
  author:     "Luis Miguel Sánchez"
  header-img: "img/watercolor_guajira.png"
