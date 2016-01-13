@@ -28,4 +28,10 @@
 
  <h2> Clipping de medios </h2>
 
+<iframe src="http://www.semana.com/nacion/articulo/la-guajira-oneida-pinto-declararia-estado-de-emergencia/456338-3" width="100%" height="300" scrolling="no" frameborder="0"></iframe>
+
  <iframe src="http://nota.elespectador.com/nodes/columnaelespectador/2016/01/n-609594.html" width="100%" height="300" scrolling="no" frameborder="0"></iframe>
+ 
+ <iframe src="http://www.eltiempo.com/colombia/otras-ciudades/cidh-dicta-medidas-cautelares-por-desnutricion-de-ninos-wayuu/16461362" width="100%" height="300" scrolling="no" frameborder="0"></iframe>
+ 
+ 
