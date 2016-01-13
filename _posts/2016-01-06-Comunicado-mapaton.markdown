@@ -25,3 +25,7 @@
  <a href="{{ site.baseurl }}/img/mapaton_guajira.png">
      <img src="{{ site.baseurl }}/img/mapaton_guajira.png" alt="Descargue el Flyer">
  </a>
+
+ <h2> Clipping de medios </h2>
+
+ <iframe src="http://nota.elespectador.com/nodes/columnaelespectador/2016/01/n-609594.html" width="100%" height="300" scrolling="no" frameborder="0"></iframe>
